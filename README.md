@@ -41,15 +41,7 @@ specialization:
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SasankaRW&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF66&icon_color=00FFCC&text_color=FFFFFF" alt="GitHub Stats" />
-    </td>
-    <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=SasankaRW&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FF66&ring=00FF66&fire=00FFCC&currStreakLabel=00FF66&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SasankaRW&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=FFFFFF&langs_count=10&exclude_repo=SasankaRW&hide=html,css" alt="Top Languages" />
     </td>
   </tr>
   <tr>
