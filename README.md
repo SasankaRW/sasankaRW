@@ -15,25 +15,9 @@
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=Building+Digital+Experiences;Full+Stack+Development;Clean+Code+%7C+Smart+Solutions;Open+Source+Contributor" alt="Typing SVG" />
-
 </div>
 
 ---
-
-## 🖥️ `$ whoami`
-
-```yaml
-name: Sasanka Rathnayake Wijerathna
-role: Full Stack Developer
-location: Sri Lanka 🇱🇰
-status: Available for Opportunities
-specialization:
-  - Web Development
-  - UI/UX Implementation
-  - System Architecture
-  - Problem Solving
-```
 
 ## 📊 `$ git stats --summary`
 
@@ -64,10 +48,6 @@ specialization:
 
 </div>
 
-
 ### 💡 Open to collaborate on innovative projects!
-
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
 
 </div>
