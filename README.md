@@ -7,7 +7,9 @@
 <table>
   <tr>
     <td>
+      <div align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=SasankaRW&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FF66&ring=00FF66&fire=00FFCC&currStreakLabel=00FF66&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+      </div>
     </td>
   </tr>
   <tr>
